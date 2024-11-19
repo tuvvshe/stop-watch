@@ -12,7 +12,7 @@ A passionate guy from Mongolia in Germany.
 📝 I regularly write articles on Github
 
 👨‍💻 All of my projects are available at GitHub
-
+I
 📫 How to reach me through Github
 
 💬 Ask me about anything
